@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
- [![Exchallenger's github stats](https://github-readme-stats.vercel.app/api?username=Exchallenger)](https://github.com/anuraghazra/github-readme-stats)
+ [![Exchallenger's github stats](https://github-readme-stats.vercel.app/api?username=thyroscope-jihun)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## my skills 👀
