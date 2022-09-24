@@ -1,4 +1,4 @@
-## 👋 Hi there!
+## 👋 도전과 경험하는 것을 즐기는 개발자 박지훈입니다.
 
  [![Exchallenger's github stats](https://github-readme-stats.vercel.app/api?username=thyroscope-jihun)](https://github.com/anuraghazra/github-readme-stats)
 
